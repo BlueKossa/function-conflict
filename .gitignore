@@ -1,0 +1,4 @@
+/target
+SDL2.*
+SDL2main.*
+SDL2test.*
